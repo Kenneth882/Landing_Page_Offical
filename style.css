@@ -1,0 +1,13 @@
+
+html{
+    background-color: beige;
+}
+
+.headers{
+    display: flex;
+    color: red;
+    justify-content: center;
+}
+.languages{
+    
+}
